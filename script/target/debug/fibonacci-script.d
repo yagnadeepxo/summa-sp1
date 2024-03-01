@@ -1,0 +1,1 @@
+/Users/yagnadeep/Desktop/summa\ sp1/script/target/debug/fibonacci-script: /Users/yagnadeep/Desktop/summa\ sp1/script/src/../../program/elf/riscv32im-succinct-zkvm-elf /Users/yagnadeep/Desktop/summa\ sp1/script/src/main.rs

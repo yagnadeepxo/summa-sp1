@@ -1,0 +1,1 @@
+{"rustc":8246298770480201012,"features":"[\"default\", \"std\"]","declared_features":"","target":9465486909595536736,"profile":18277820415669657429,"path":3112650552518093981,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/bech32-15b90e8b8763a9fc/dep-lib-bech32"}}],"rustflags":[],"metadata":6768095132413631544,"config":2202906307356721367,"compile_kind":0}

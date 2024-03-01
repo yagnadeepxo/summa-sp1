@@ -1,0 +1,14 @@
+/Users/yagnadeep/Desktop/summa sp1/script/target/release/deps/libclang_sys-3ba3cefb7a013bb4.rmeta: /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/macros.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/common.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/dynamic.rs
+
+/Users/yagnadeep/Desktop/summa sp1/script/target/release/deps/libclang_sys-3ba3cefb7a013bb4.rlib: /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/macros.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/common.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/dynamic.rs
+
+/Users/yagnadeep/Desktop/summa sp1/script/target/release/deps/clang_sys-3ba3cefb7a013bb4.d: /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/macros.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/common.rs /Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/dynamic.rs
+
+/Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs:
+/Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs:
+/Users/yagnadeep/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs:
+/Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/macros.rs:
+/Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/common.rs:
+/Users/yagnadeep/Desktop/summa\ sp1/script/target/release/build/clang-sys-64d21374609de18a/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/yagnadeep/Desktop/summa sp1/script/target/release/build/clang-sys-64d21374609de18a/out

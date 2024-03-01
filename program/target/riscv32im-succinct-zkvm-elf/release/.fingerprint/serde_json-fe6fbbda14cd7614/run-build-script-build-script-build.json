@@ -1,0 +1,1 @@
+{"rustc":10398248721842081285,"features":"","target":0,"profile":0,"path":0,"deps":[[7847156259493891602,"build_script_build",false,6071791458577086522]],"local":[{"RerunIfChanged":{"output":"riscv32im-succinct-zkvm-elf/release/build/serde_json-fe6fbbda14cd7614/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
